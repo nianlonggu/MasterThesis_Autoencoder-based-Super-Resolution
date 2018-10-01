@@ -63,6 +63,9 @@ step 4: See training performance curve
 ## Contact
 For further information, please contact  nianlonggu@gmail.com
 
+## Related Thesis
+See link: https://www.dropbox.com/s/ycsocaxbqijanku/MasterThesis_Deep_Learning_based_Super_Resolution_NianlongGu.pdf?dl=0
+
 ## Bib
 
 [1] Dong C, Loy C C, He K, et al. Learning a deep convolutional network for image super-resolution[C]//European Conference on Computer Vision. Springer, Cham, 2014: 184-199.
